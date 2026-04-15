@@ -11,7 +11,7 @@
 <h3 align="center">🚀 Build forms. Connect databases. Skip backend complexity.</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Backendless+Form+Handling;Supports+MongoDB+Atlas+%26+Supabase;Easy+Form+Embedding;Fast+Setup+for+Developers;Built+for+Modern+Workflows" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Backendless+Form+Handling;Supports+MongoDB+Atlas+%26+Postgres;Easy+Form+Embedding;Fast+Setup+for+Developers;Built+for+Modern+Workflows" alt="Typing SVG" />
 </p>
 
 ---
@@ -37,7 +37,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Backendless%20Form%20Handling-2563EB?style=for-the-badge" />
   <img src="https://img.shields.io/badge/MongoDB%20Atlas-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Connector%20Templates-0EA5E9?style=for-the-badge" />
   <img src="https://img.shields.io/badge/File%20Uploads-7C3AED?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Dashboard%20Analytics-F59E0B?style=for-the-badge" />
@@ -48,7 +48,7 @@
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,nodejs,mongodb,supabase,vercel&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,nodejs,mongodb,postgres,vercel&theme=dark" />
 </p>
 
 ---
