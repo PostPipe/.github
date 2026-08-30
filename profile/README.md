@@ -8,6 +8,12 @@
 
 ---
 
+<h1 style=text-align:center>Support This Project <a href="https://www.buymeacoffee.com/sourodip" target="_blank">
+  <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" 
+       alt="Buy Me a Coffee" 
+       style="height: 41px !important;width: 174px !important;">
+</a></h1>
+
 <h3 align="center">🚀 Build forms. Connect databases. Skip backend complexity.</h3>
 
 <p align="center">
